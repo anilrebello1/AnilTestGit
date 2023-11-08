@@ -1,3 +1,3 @@
 echo " Hello Hello"
-Distros=("anil" "amit" "sonia" "girish")
-echo "And the name is $(Distros[2])"
+distros=("anil" "amit" "sonia" "girish")
+echo "And the name is $(distros[2])"

@@ -1,3 +1,3 @@
 echo " Hello Hello"
-distro ("anil" "amit" "sonia" "girish")
-echo "And the name is $(distro[2])"
+sing ("anil" "amit" "sonia" "girish")
+echo "And the name is $(sing[2])"

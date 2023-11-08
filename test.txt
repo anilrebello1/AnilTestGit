@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/cat
 echo " Hello Hello"
 distros=("anil" "amit" "sonia" "girish")
 echo "And the name is $(distros[2])"

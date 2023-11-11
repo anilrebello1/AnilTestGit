@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net" modified="2023-11-11T23:12:44.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kaZyzRaeZPCFk_HrMAc_" version="22.1.0" type="github">
+  <diagram name="Page-1" id="eECzLdfVAs8uR3XTp6Mz">
+    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-1" value="12&amp;gt;Legal Nego&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006600;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-2" value="&lt;h1&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Check Project with Legal&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;1.KISS has standard contract format only&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-3" target="Jf4_QBAs0xnJfr7zRoNE-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-3" value="13&amp;gt; submit to approval tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006600;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="270" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-5" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Tool Exists&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Concordia ..&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-6" target="Jf4_QBAs0xnJfr7zRoNE-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-6" value="14&amp;gt; Request Signature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="465" y="60" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Tool not integrated&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;separate SIM process&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="130" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-9" target="Jf4_QBAs0xnJfr7zRoNE-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-9" value="15&amp;gt; Partner questionnaire" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-12" value="&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Process issue&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Sim needs to be updated&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="130" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-13" target="Jf4_QBAs0xnJfr7zRoNE-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="90" />
+              <mxPoint x="950" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-13" value="&lt;font color=&quot;#ffffff&quot;&gt;16&amp;gt;Notification of signature&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#006600;" parent="1" vertex="1">
+          <mxGeometry x="810" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-15" value="&lt;h1&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Process issue&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Email&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-16" value="17&amp;gt; Update Concordia / Acqiore and GCT&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="820" y="290" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-18" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tools not integrated&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="805" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-19" value="18&amp;gt; Notifiy CAM PM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-20" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tools not integrated&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="625" y="240" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-22" target="Jf4_QBAs0xnJfr7zRoNE-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-22" value="19&amp;gt;Save Contract&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-23" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Contract saved in Toaster&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Check&lt;/span&gt;PROJECTS&amp;nbsp;&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="435" y="210" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jf4_QBAs0xnJfr7zRoNE-25" target="Jf4_QBAs0xnJfr7zRoNE-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-25" value="20&amp;gt;Check GLC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="270" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-27" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;CAM needs to check- why&amp;nbsp; is weekly uodated not sent( CHECK project)&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="245" y="310" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-28" value="21&amp;gt; Double Check publication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jf4_QBAs0xnJfr7zRoNE-30" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Check for issues with title - potential step to reduce errors- check for Tool ( looking glass)&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="35" y="300" width="175" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

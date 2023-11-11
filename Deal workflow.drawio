@@ -1,0 +1,213 @@
+<mxfile host="app.diagrams.net" modified="2023-11-11T22:37:10.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LkvWgFWQK3RT83mX2oTQ" version="22.1.0" type="github">
+  <diagram name="Page-1" id="0g3rdqzP1fGyu57Rcd3_">
+    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-1" target="XfEPGZGXSrhc9GRhl8sX-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-1" value="1&amp;gt;Identify New Customer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-2" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Potential Gap&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;-&amp;nbsp; Self research and box office&amp;nbsp;&lt;/div&gt;&lt;div&gt;-&amp;nbsp; Other territories could be having the same&amp;nbsp; conversation&lt;/div&gt;&lt;div&gt;-No tool to let CAM know that other discussions are on going&amp;nbsp;&lt;/div&gt;&lt;div&gt;Opportunity - Gen AI tools for analysis&amp;nbsp; and opportunity capture tool&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="35" y="100" width="185" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-7" target="XfEPGZGXSrhc9GRhl8sX-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-3" target="XfEPGZGXSrhc9GRhl8sX-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-3" value="Potential Vendor" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-5" value="What is done with rejects&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF7542;" parent="1" vertex="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-3" target="XfEPGZGXSrhc9GRhl8sX-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="280" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-7" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-9" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-10" target="XfEPGZGXSrhc9GRhl8sX-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-10" value="2&amp;gt;Initiate NDA in contract Central&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006600;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="360" y="45" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-12" value="&lt;h1&gt;Legal owns&lt;/h1&gt;&lt;div&gt;1. CAM only initiates&lt;/div&gt;&lt;div&gt;2. Legal sends NDA to vendor&lt;/div&gt;&lt;div&gt;3. Sign up is an online signature process&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="120" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-13" target="XfEPGZGXSrhc9GRhl8sX-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="250" />
+              <mxPoint x="280" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-13" target="XfEPGZGXSrhc9GRhl8sX-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-13" value="NDA Signed" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-15" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-16" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-19" target="XfEPGZGXSrhc9GRhl8sX-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-19" value="3&amp;gt;Vendor sends avail/&amp;nbsp;&lt;br&gt;description" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="620" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-21" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Potential Gap&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;1. CAM stores file on his store&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. No common store / No audit&lt;/div&gt;&lt;div&gt;3. No unified repo&lt;/div&gt;&lt;div&gt;What is a &lt;b&gt;TRACKER&lt;/b&gt; used&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="115" width="200" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-23" target="XfEPGZGXSrhc9GRhl8sX-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="70" />
+              <mxPoint x="890" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-23" value="4&amp;gt;Get additional info from licensor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="770" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-25" target="XfEPGZGXSrhc9GRhl8sX-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-25" value="5&amp;gt;Evaluate Content Quality" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF0019;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="750" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-27" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Gap in understanding&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;1. &lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Sync across territory missing&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;2&lt;b&gt;. Who evaluates and how&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="230" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-28" target="XfEPGZGXSrhc9GRhl8sX-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-28" value="6&amp;gt;Evaluate Content Quantative Data&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-30" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Potential Gap&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;1. CAM goes to multiple sources&amp;nbsp; to get data -&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="260" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-32" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Tools exist - features missing&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Tools exist but does not deliver full functionality - Features need to be checked ( pvca tool , Project Q , EeVee)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="410" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="270" />
+              <mxPoint x="281" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-33" target="XfEPGZGXSrhc9GRhl8sX-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-33" value="Nego" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-37" value="&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;Potential Gap&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;1.Informal - no repo / or guidance&lt;/font&gt;2. What is STAF application&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="390" width="207.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-39" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-40" value="7&amp;gt;Re-Evaluate Content Quantative Data&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#994C00;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="200" y="350" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-42" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;T&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ools exist&amp;nbsp;&lt;/font&gt;( pvca tools)&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Why??&lt;/font&gt;&lt;/div&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-43" target="XfEPGZGXSrhc9GRhl8sX-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="300" />
+              <mxPoint x="280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-43" target="XfEPGZGXSrhc9GRhl8sX-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-43" value="All Good" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-45" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-47" target="XfEPGZGXSrhc9GRhl8sX-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-47" value="8&amp;gt;Enter into GCT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006600;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="50" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-49" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-50" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.133;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-49" target="XfEPGZGXSrhc9GRhl8sX-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-52" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Projects in Acquire/Concordia??&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CAM have to complete 3 tools (GCT, Acquire, Concordia), when just 1 could gather all info&lt;br style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium;&quot;&gt;- input same information multiple times&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium;&quot;&gt;- easy to forgot one of the many steps&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: medium;&quot;&gt;-&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="185" y="510" width="295" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-53" target="XfEPGZGXSrhc9GRhl8sX-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-53" value="9&amp;gt;Preapproval / &lt;br&gt;approval&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF7542;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="50" y="650" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-55" value="&lt;h1&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Process Issues- Check for projects in Acquire&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;1.Preapprocal Doc.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="640" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-56" target="XfEPGZGXSrhc9GRhl8sX-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-56" value="10&amp;gt;Formal Bid / Commercial Nego" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006600;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="393.75" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-58" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;No tool to capture&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;STAF inconsistent&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="710" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XfEPGZGXSrhc9GRhl8sX-59" target="XfEPGZGXSrhc9GRhl8sX-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-59" value="11&amp;gt;Final Deal addendum from Legal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006600;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="557.5" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-61" value="&lt;h1&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Process issue getting POC from legal&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="710" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-62" value="12&amp;gt;Final Deal addendum from Legal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006600;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="720" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XfEPGZGXSrhc9GRhl8sX-64" value="&lt;h1&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Check Project with Legal&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;1.KISS has standard contract format only&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="710" y="710" width="170" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

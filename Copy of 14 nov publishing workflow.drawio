@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T12:41:05.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3zFug4sh9hXNugk0LVtb" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T12:46:12.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="j-lKGJeqar9GNG2lcRqF" version="22.1.0" type="github">
   <diagram name="Page-1" id="KKaOIWQLvDGoXDmgkrxp">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="100" width="420" height="750" as="geometry" />
+          <mxGeometry x="550" y="40" width="420" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="pxU7jCNwbXPqKlXfrHt0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="pxU7jCNwbXPqKlXfrHt0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="pxU7jCNwbXPqKlXfrHt0-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="445" as="targetPoint" />
             <mxPoint x="227.5" y="524" as="sourcePoint" />
@@ -15,6 +15,8 @@
               <mxPoint x="228" y="520" />
               <mxPoint x="250" y="520" />
               <mxPoint x="250" y="445" />
+              <mxPoint x="520" y="445" />
+              <mxPoint x="520" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,27 +83,30 @@
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-12" target="pxU7jCNwbXPqKlXfrHt0-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxU7jCNwbXPqKlXfrHt0-12" value="POM monitors in Looking Glass / CST&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="k5pe2iP-TapTLNw0aVdW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxU7jCNwbXPqKlXfrHt0-12" target="pxU7jCNwbXPqKlXfrHt0-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxU7jCNwbXPqKlXfrHt0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-14" target="pxU7jCNwbXPqKlXfrHt0-16" edge="1">
+        <mxCell id="pxU7jCNwbXPqKlXfrHt0-12" value="POM monitors in Looking Glass / CST&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5pe2iP-TapTLNw0aVdW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pxU7jCNwbXPqKlXfrHt0-14" target="pxU7jCNwbXPqKlXfrHt0-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="200" />
-              <mxPoint x="638" y="200" />
+              <mxPoint x="815" y="170" />
+              <mxPoint x="643" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-14" value="Assigned SIM to POM POC&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pxU7jCNwbXPqKlXfrHt0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-16" edge="1">
+        <mxCell id="pxU7jCNwbXPqKlXfrHt0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-16" edge="1" target="pxU7jCNwbXPqKlXfrHt0-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-16" value="Does the Asset show in Looking glass / CST ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="220" width="185" height="120" as="geometry" />
+          <mxGeometry x="550" y="185" width="185" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-21" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="245" width="60" height="30" as="geometry" />
@@ -110,19 +115,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-22" value="POM keeps checking for asset delivery&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="400" width="120" height="50" as="geometry" />
+          <mxGeometry x="585" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-23" value="SOP to follow up after 30days" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="207.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-16" target="pxU7jCNwbXPqKlXfrHt0-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-28" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="645" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="650" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-29" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Pain Points&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;-&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;LG / CST shows what is delivered not what is expected&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;-POM has to look at avail and CST to determine what to follow up on&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;- Localisation info is not in Looking glass ./ CST so might get lost&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="750" y="320" width="230" height="160" as="geometry" />
+          <mxGeometry x="740" y="290" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-30" target="pxU7jCNwbXPqKlXfrHt0-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -154,13 +159,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-38" value="POM picks ups SKU after searching CST and EDP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-40" value="CST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-46" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Errors introduced&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;- &lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Wrong SKU&#39;s being picked up by POM eg asset with Spanish subtitle instead of Italian.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Wrong SKU updated by CAM PM&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Wrong offers can be uploaded if SKU is wrong . Offers process is all manual currently&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="750" y="480" width="220" height="200" as="geometry" />
+          <mxGeometry x="745" y="445" width="220" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-47" target="pxU7jCNwbXPqKlXfrHt0-52" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -175,15 +180,15 @@
           <mxGeometry x="340" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-49" value="POM updates CAM PM&amp;nbsp; email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pxU7jCNwbXPqKlXfrHt0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-52" edge="1">
+        <mxCell id="pxU7jCNwbXPqKlXfrHt0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pxU7jCNwbXPqKlXfrHt0-52" edge="1" target="pxU7jCNwbXPqKlXfrHt0-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-52" value="PubTech teams uploads offers ( excel file uploaded via script) to looking glass&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="630" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="565" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-53" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ongoing CST project&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;-Moving to CST project that automates offer creation and upload&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="670" width="170" height="100" as="geometry" />
@@ -192,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-55" value="PubTech teams do quality check on assets and titles&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="740" width="120" height="80" as="geometry" />
+          <mxGeometry x="625" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-56" value="&lt;h1&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Quality checks&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt; &lt;font style=&quot;&quot;&gt;only HVC is chedked manually&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- others are usually passed thru ( sometimes with errors)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;- Aspera does some high level checks eg- matching length of audio file to video etc&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="755" y="660" width="220" height="150" as="geometry" />
@@ -203,13 +208,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-57" value="Approve in Looking glass by POM&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="740" width="100" height="90" as="geometry" />
+          <mxGeometry x="250" y="690" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-60" value="PUBLISHED&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="760" width="130" height="40" as="geometry" />
+          <mxGeometry x="70" y="715" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pxU7jCNwbXPqKlXfrHt0-64" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PUBTECH&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="840" y="604" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -2,3 +2,4 @@
 echo " Hello Hello"
 distros=("anil" "amit" "sonia" "girish")
 echo "And the name is $(distros[2])"
+/* this is a comment line only added on 29th nov
